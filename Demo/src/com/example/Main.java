@@ -5,7 +5,6 @@ public class Main {
 
 		System.out.println("welcome to java");
 		System.out.println("welcome to Angular");
-		System.out.println("Welcome to git");
-
+		
 	}
 }
